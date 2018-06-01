@@ -1,0 +1,4 @@
+C:\Users\Gaby Sofi Esteban\futbol\obj\Debug\netcoreapp2.1\futbol.csprojAssemblyReference.cache
+C:\Users\Gaby Sofi Esteban\futbol\obj\Debug\netcoreapp2.1\futbol.csproj.CoreCompileInputs.cache
+C:\Users\Gaby Sofi Esteban\futbol\obj\Debug\netcoreapp2.1\futbol.AssemblyInfoInputs.cache
+C:\Users\Gaby Sofi Esteban\futbol\obj\Debug\netcoreapp2.1\futbol.AssemblyInfo.cs
